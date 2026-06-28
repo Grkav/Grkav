@@ -6,11 +6,6 @@
   src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:0F766E,100:22C55E&height=220&section=header&text=Gustavo%20Marques&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Desenvolvedor%20Full%20Stack%20%7C%20React%20%2B%20FastAPI&descAlignY=56&descSize=18"
 />
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=820&lines=Aplica%C3%A7%C3%B5es+web+modernas+e+bem+estruturadas;React+%7C+FastAPI+%7C+PostgreSQL;Docker+%7C+Redis+%7C+Celery;Código+limpo%2C+performance+e+boas+decis%C3%B5es+t%C3%A9cnicas"
-  alt="Apresentação animada"
-/>
-
 <br/>
 
 <a href="https://github.com/Grkav?tab=followers">
@@ -38,27 +33,6 @@ No frontend, desenvolvo interfaces responsivas com **React**, **Tailwind CSS**, 
 Também trabalho com **Docker**, **Redis**, **Celery** e **workers**, criando fluxos assíncronos, processamento em segundo plano e soluções mais eficientes para tarefas pesadas.
 
 Valorizo código limpo, organização, responsabilidade técnica e decisões que tornem o sistema mais seguro, performático e fácil de manter.
-
-```python
-gustavo = {
-    "perfil": "Desenvolvedor Full Stack",
-    "frontend": ["HTML", "CSS", "Tailwind CSS", "React"],
-    "backend": ["Python", "FastAPI"],
-    "dados": ["PostgreSQL", "SQLAlchemy"],
-    "infraestrutura": ["Docker", "Redis", "Celery", "Workers"],
-    "cloud": {
-        "AWS": "conhecimentos básicos em evolução",
-        "Azure": "conhecimentos básicos em evolução"
-    },
-    "prioridades": [
-        "código limpo",
-        "boa arquitetura",
-        "performance",
-        "manutenibilidade",
-        "experiência do usuário"
-    ]
-}
-```
 
 ---
 
