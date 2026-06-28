@@ -211,14 +211,14 @@ Na parte de cloud, estou desenvolvendo conhecimentos básicos em **AWS** e **Azu
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/gustavo-marques-641228263/">
   <img
     src="https://img.shields.io/badge/LinkedIn-0F766E?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
   />
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:gustavomarquesjob@gmail.com">
   <img
     src="https://img.shields.io/badge/Email-0F766E?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Email"
